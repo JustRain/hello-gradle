@@ -13,7 +13,7 @@ import org.junit.Test;
  */
 public class DemoTest extends AbstractTest {
 
-    private Logger logger = LogManager.getLogger();
+ /**   private Logger logger = LogManager.getLogger();
 
     @Test
     public void getBeanTest() {
@@ -26,4 +26,5 @@ public class DemoTest extends AbstractTest {
         logger.debug(service.getClass());
         Assert.assertNotNull(service);
     }
+*/
 }
